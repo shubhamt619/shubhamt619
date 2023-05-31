@@ -38,4 +38,3 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" /></code>
 </div>
-<a href="https://app.daily.dev/shubhamt619"><img src="https://api.daily.dev/devcards/8f8c1172241f4f1b8944d31254119a16.png?r=ecv" width="400" alt="Shubham Thakur's Dev Card"/></a>
