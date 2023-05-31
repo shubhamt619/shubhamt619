@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Solidity and Golang
 - 💞️ I’m looking to work in Web3 domain
 - 📫 You can drop an email at shubhamt619@gmail.com
-
+<a href="https://app.daily.dev/shubhamt619"><img src="https://api.daily.dev/devcards/8f8c1172241f4f1b8944d31254119a16.png?r=ecv" width="400" alt="Shubham Thakur's Dev Card"/></a>
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
