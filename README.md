@@ -9,7 +9,7 @@
 ![Shubham's stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhamt619&theme=github_dark) <a href="https://github.com/shubhamt619"> <img align="right"  src="https://github-readme-stats.vercel.app/api?username=shubhamt619&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Shubham's GitHub Stats" /></a>
 
 \
-\
+
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
