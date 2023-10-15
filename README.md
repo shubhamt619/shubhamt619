@@ -41,9 +41,9 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" /></code>
-</div>
+</div>/
+\
 
 
 
-/
 ![Shubham's stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhamt619&theme=github_dark) <a href="https://github.com/shubhamt619"> <img align="right"  src="https://github-readme-stats.vercel.app/api?username=shubhamt619&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Shubham's GitHub Stats" /></a>
